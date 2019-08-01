@@ -1,0 +1,2 @@
+# Utility-tool-using-java
+The Utility Tool contains a text editor and a tic tac toe game. A smart text editor that lets a user enter, change, store, print text in different formats, having spell-check and prediction functionality and finally create a document. A Tic-Tac-Toe game with graphical functionality which is supposed to consists of two parts, one a single player game and the other a multi-player game.
